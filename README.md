@@ -1,3 +1,7 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mrijoo">
+
+<br>
+
 ## Hi there, I'm IZO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
@@ -26,7 +30,3 @@
 </h4>
 
 <hr>
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=mrijoo">
-
-<br>
