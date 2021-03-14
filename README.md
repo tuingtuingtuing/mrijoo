@@ -1,6 +1,6 @@
 ## Hi there, I'm IZO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img align="right" alt="GIF" width="300" height="220" src="https://izo.my.id/coding.gif" />
+<img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
 **Personal Stuffs:**
 - 🔭 I’m currently working on my side project
