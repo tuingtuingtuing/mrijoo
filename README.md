@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @mrijoo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi there, I'm IZO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<!---
-mrijoo/mrijoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
+
+**Personal Stuffs:**
+- 🔭 I’m currently working on my side project
+- 🌱 I’m currently learning typescript
+- ✨ Interested in backend-ish things 
+- 💬 Ask me about anything [here](https://hub.izo.my.id/)
+
+<details>
+  <summary><b>My Github Stats</b></summary>
+    <p align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mrijoo&show_icons=true&theme=tokyonight">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrijoo&hide=c%23&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+    </a>
+</p>
+
+</details>
+
+<h2 align="center">Repositories</h2>
+<h4 align="center">
+  <a href=https://github.com/mrijoo?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
