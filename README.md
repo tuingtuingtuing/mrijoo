@@ -8,6 +8,7 @@
 - ✨ Interested in backend-ish things 
 - 💬 Ask me about anything [here](https://hub.izo.my.id/)
 
+<h2 align="center">My Github Stats</h2>
 <p align=center>
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mrijoo&show_icons=true&theme=tokyonight">
   </a>
