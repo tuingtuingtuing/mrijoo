@@ -8,8 +8,7 @@
 - ✨ Interested in backend-ish things 
 - 💬 Ask me about anything [here](https://hub.izo.my.id/)
 
-<details>
-  <summary><b>My Github Stats</b></summary>
+<h2 align="center">Repositories</h2>
     <p align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mrijoo&show_icons=true&theme=tokyonight">
@@ -18,8 +17,6 @@
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrijoo&hide=c%23&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
     </a>
 </p>
-
-</details>
 
 <h2 align="center">Repositories</h2>
 <h4 align="center">
