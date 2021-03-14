@@ -16,10 +16,8 @@
 
 <h2 align="center">My Github Stats</h2>
 <p align=center>
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mrijoo&show_icons=true&theme=tokyonight">
-  </a>
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mrijoo&show_icons=true&theme=tokyonight">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrijoo&hide=c%23&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
-  </a>
 </p>
 
 <hr>
