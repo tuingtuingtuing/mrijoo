@@ -9,17 +9,24 @@
 - ✨ Interested in backend-ish things 
 - 💬 Ask me about anything [here](https://hub.izo.my.id/)
 
+<hr>
 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+<h2 align="center">Technologies & Tools</h2>
+
+![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
+![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
 <hr>
 
