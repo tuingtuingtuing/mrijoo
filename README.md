@@ -8,14 +8,11 @@
 - ✨ Interested in backend-ish things 
 - 💬 Ask me about anything [here](https://hub.izo.my.id/)
 
-<h2 align="center">Repositories</h2>
-    <p align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<p align=center>
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mrijoo&show_icons=true&theme=tokyonight">
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrijoo&hide=c%23&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
-    </a>
+  </a>
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrijoo&hide=c%23&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  </a>
 </p>
 
 <h2 align="center">Repositories</h2>
