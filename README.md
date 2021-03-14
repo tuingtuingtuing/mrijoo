@@ -9,9 +9,7 @@
 - ✨ Interested in backend-ish things 
 - 💬 Ask me about anything [here](https://hub.izo.my.id/)
 
-<hr>
-
-<h2 align="center">Technologies & Tools</h2>
+<br>
 
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
