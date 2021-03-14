@@ -42,6 +42,9 @@
 <h2 align="center">Repositories</h2>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/mrijoo/Java-Soal-Matematika-Acak" title="Java Soal Matematika Acak"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrijoo&repo=Java-Soal-Matematika-Acak&theme=gotham"></a>
+  <p width="100%" align="center">
+  <a align="left" href="https://github.com/mrijoo/Java-Soal-Matematika-Acak" title="Java Soal Matematika Acak"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrijoo&repo=Java-Soal-Matematika-Acak&theme=gotham"></a><a align="right" href="https://github.com/mrijoo/Java-Menghitung-Volume-Luas-Lingkaran" title="Java Menghitung Volume & Luas Lingkaran"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrijoo&repo=Java-Menghitung-Volume-Luas-Lingkaran&theme=gotham"></a>
+</p>
 </p>
 <h4 align="center">
   <a href=https://github.com/mrijoo?tab=repositories title="Show Repositories">🔎 Show More 🔍</a>
