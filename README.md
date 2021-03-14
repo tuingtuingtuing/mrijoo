@@ -26,3 +26,7 @@
 </h4>
 
 <hr>
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=mrijoo">
+
+<br>
