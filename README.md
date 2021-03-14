@@ -8,6 +8,8 @@
 - ✨ Interested in backend-ish things 
 - 💬 Ask me about anything [here](https://hub.izo.my.id/)
 
+<hr>
+
 <h2 align="center">My Github Stats</h2>
 <p align=center>
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mrijoo&show_icons=true&theme=tokyonight">
@@ -16,7 +18,11 @@
   </a>
 </p>
 
+<hr>
+
 <h2 align="center">Repositories</h2>
 <h4 align="center">
   <a href=https://github.com/mrijoo?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+<hr>
