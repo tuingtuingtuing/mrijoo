@@ -1,10 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mrijoo">
-
-<br>
-
 ## Hi there, I'm IZO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
+<img align="right" alt="GIF" height="125px" src="https://izo.my.id/coding.gif" />
 
 **Personal Stuffs:**
 - 🔭 I’m currently working on my side project
@@ -18,6 +14,7 @@
 <p align=center>
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mrijoo&show_icons=true&theme=tokyonight">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrijoo&hide=c%23&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  <img src="https://profile-counter.glitch.me/mrijoo/count.svg" alt="Visitor Count" />
 </p>
 
 <hr>
