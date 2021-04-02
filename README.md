@@ -25,7 +25,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-![Visitor](https://izo.my.id/api/?user=mrijoo&label=Profile%20Visitor&labelcolor=blue&color=grey&style=for-the-badge&link=izo.my.id)
 
 <hr>
 
@@ -35,7 +34,7 @@
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mrijoo&show_icons=true&theme=tokyonight">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrijoo&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   <br>
-  <img src="https://profile-counter.glitch.me/mrijoo/count.svg" alt="Visitor Count" />
+  <img src="https://izo.my.id/api/?user=mrijoo&label=Profile%20Visitor&labelcolor=blue&color=grey&style=for-the-badge" />
 </p>
 
 <hr>
