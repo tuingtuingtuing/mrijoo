@@ -35,6 +35,7 @@
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrijoo&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   <br>
   <img src="https://profile-counter.glitch.me/mrijoo/count.svg" alt="Visitor Count" />
+  ![Visitor](https://izo.my.id/api/?user=mrijoo&label=Profile%20Visitor&labelcolor=blue&color=grey&style=for-the-badge&link=izo.my.id)
 </p>
 
 <hr>
